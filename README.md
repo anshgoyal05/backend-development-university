@@ -17,7 +17,7 @@ Each project is maintained in its own dedicated GitHub repository. This reposito
 
 | # | Project | Repository | Tech Stack |
 |---|---------|------------|------------|
-| 01 | Assignment 01 -  | [Repository](https://github.com/anshgoyal05/assignment-01-templatemonster-clone.git) | OnGoing |
+| 01 | Assignment 01  | [Repository](https://github.com/anshgoyal05/assignment-01-templatemonster-clone.git) | OnGoing |
 
 ## 🛠️ Technologies
 
