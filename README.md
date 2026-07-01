@@ -8,7 +8,7 @@ Each project is maintained in its own dedicated GitHub repository. This reposito
 
 | # | Project | Repository | Tech Stack |
 |---|---------|------------|------------|
-| 01 | Project 01 | [Repository](https://github.com/anshgoyal05/pos-billing-system.git) | OnGoing |
+| 01 | Project 01 - POS Billing System | [Repository](https://github.com/anshgoyal05/pos-billing-system.git) | OnGoing |
 | 02 | Project XX |  | Coming Soon |
 
 > More projects will be added as I progress through my backend development classes.
